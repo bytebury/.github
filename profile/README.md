@@ -3,5 +3,3 @@ We are **[bytebury](https://bytebury.com)**. We create useful applications to he
 
 ## Our Projects
 * [Fun Banking](https://fun-banking.com)
-* [Run169](https://run169.org)
-* [RetroBoard.org](https://github.com/marcellosabino/retroboard-org) (Website no longer maintained)
